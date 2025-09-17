@@ -1,0 +1,12 @@
+Experiment #,Sand %,Water %,Observed Condition,ADC Raw Value,Voltage (V),Notes
+1,100,0,Dirt is dry,4095,3.12,The voltage is decreasing instead of increasing because of the voltage divisor employed
+2,90,10,Dirt has only drops of water,4076,3.08,
+3,80,20,Dirt absorbs all water,3225,2.67,
+4,70,30,Dirt absorbs all water,2851,2.4,
+5,60,40,Dirt absorbs all water,1713,1.5,
+6,50,50,Starts to accumulate water,855,0.8,"Big change in voltage, almost half the value"
+7,40,60,Water increasing ,774,0.74,
+8,30,70,Water increasing ,651,0.656,
+9,20,80,Big quantities of water,434,0.485,
+10,10,90,Big quantities of water,271,0.313,
+11,0,100,"All water, no dirt",0,0.14,
