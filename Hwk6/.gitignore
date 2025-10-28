@@ -1,0 +1,19 @@
+# Archivos de compilación y dependencias de ESP-IDF
+# Ignore the build directory *inside* the mqtt5 folder
+mqtt5/build/
+
+# Carpeta del entorno virtual de Python
+/venv/
+
+# Fotos
+/Pictures/
+
+# Archivos de configuración local del editor de código (VSCode)
+.vscode/
+
+# Archivos temporales generados por Python
+__pycache__/
+*.pyc
+
+# Archivo de datos de salida
+mqtt_capture.csv
